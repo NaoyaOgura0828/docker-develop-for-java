@@ -1,5 +1,5 @@
 # docker-develop-for-java
-[Docker](https://www.docker.com/)で[Java](https://java.dev/)開発環境を構築する。
+[Docker](https://www.docker.com/)で[Java](https://openjdk.org/)開発環境を構築する。
 
 <br>
 
